@@ -9,7 +9,7 @@ connectDB();
 // app.use(cors());
 
 const corsOptions = {
-  origin: "http://localhost:3000",
+  origin: "http://localhost:4000",
   credentials: true, //access-control-allow-credentials:true
   optionSuccessStatus: 200,
 };
